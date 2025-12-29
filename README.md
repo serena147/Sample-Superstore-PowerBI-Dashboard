@@ -1,16 +1,22 @@
-# 📊 Sample Superstore Sales Dashboard
+# 📊 Sample Superstore Sales Portfolio
+An end-to-end Power BI analysis focused on retail profitability and regional sales performance.
 
 ## 🖥️ Dashboard Preview
 ![Dashboard Preview](dashboard-preview.png)
 
-## 🎯 Project Overview
-This Power BI dashboard provides a comprehensive analysis of the **Sample Superstore** dataset. It tracks KPIs like profitability, sales trends, and regional performance to drive business growth.
+## 🎯 Project Objective
+The goal of this portfolio project is to analyze the "Sample Superstore" dataset to identify profit leaks, top-performing categories, and shipping efficiency.
 
-## 📁 Project Files
-* **Power BI Report:** [Click Here to Download the .pbix File](https://github.com/serena147/Sample-Superstore-PowerBI-Dashboard/raw/refs/heads/main/Power%20BI%20portfolio/Sample_Superstore_Portfolio.pbix)
-* **Data Source:** Sample Superstore Dataset (Excel/CSV)
+## 📁 Project Resources
+* **Power BI Report:** [Download .pbix File](./Sample-Superstore-Portfolio.pbix)
+* **Dataset:** Sample Superstore Excel Dataset
 
-## 🛠️ Key Features
-* **DAX Measures:** Created custom calculations for Total Sales and Profit Margin %.
-* **Data Modeling:** Established relationships between Orders and Returns.
-* **Interactivity:** Added Slicers for Region and Category for dynamic filtering.
+## 🛠️ Skills & Tools
+* **Power Query:** Data cleaning, type conversion, and column splitting.
+* **DAX Formulas:** Created measures for `Total Profit`, `Profit Margin %`, and `Year-over-Year (YoY) Growth`.
+* **Data Modeling:** Built a relationship between Sales, Products, and Regional managers.
+
+## 💡 Business Insights
+* **Product Performance:** Identified that "Technology" has the highest profit margin, while "Furniture" (specifically Tables) is underperforming.
+* **Geographic Analysis:** The Western region contributes to the highest volume of sales, but the Eastern region shows faster growth.
+* **Shipping Impact:** Analyzed how 'Same Day' shipping affects the return rate of items.
