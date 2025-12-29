@@ -7,7 +7,7 @@
 This Power BI dashboard provides a comprehensive analysis of the **Sample Superstore** dataset. It tracks KPIs like profitability, sales trends, and regional performance to drive business growth.
 
 ## 📁 Project Files
-* **Power BI Report:** [Download .pbix File](Sample-Superstore-Sales-Dashboard.pbix)
+* **Power BI Report:** [Click Here to Download the .pbix File](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/main/Sample-Superstore-Sales-Dashboard.pbix)
 * **Data Source:** Sample Superstore Dataset (Excel/CSV)
 
 ## 🛠️ Key Features
